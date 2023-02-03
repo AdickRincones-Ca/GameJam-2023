@@ -1,3 +1,3 @@
-# GameJam-2023
-Members: Adick Rincones, Raul Tepa, Juan Puertas
-Hola
+# GameJam2023
+
+Developed with Unreal Engine 5
